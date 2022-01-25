@@ -19,6 +19,9 @@
 .heading_center {
   font-size: 1rem;
 }
+.logo img{
+  width:20px !important;
+}
 .heading2_center {
   font-size: 0.8rem;
 }
@@ -41,4 +44,6 @@ footer{
 services_box_aboutus{
 width:300px;
 }
-
+.menu img{
+  width:190px !important;
+}
