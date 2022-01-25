@@ -26,4 +26,7 @@ footer{
   position:fixed;
   bottom:0px;
 }
+.menu img{
+  width:190px !important;
+}
 
