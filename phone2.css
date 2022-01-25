@@ -30,3 +30,13 @@
 .box img {
   width: 52px;
 }
+services_box_aboutus:before{
+width:300px;
+}
+services_box_aboutus{
+width:300px;
+}
+footer{
+  position: absolute;
+    bottom: 0px;
+}
