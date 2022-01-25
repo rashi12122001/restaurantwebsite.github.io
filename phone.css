@@ -1,0 +1,17 @@
+#navbar {
+  flex-direction: column;
+  align-items: left;
+}
+.searchid {
+  width: 100px;
+  margin-top: 32px;
+}
+#logo img {
+}
+.services_box::before {
+  width: 300px;
+}
+.services_box {
+  width: 300px;
+  padding: 2px;
+}

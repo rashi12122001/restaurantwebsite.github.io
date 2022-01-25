@@ -1,0 +1,32 @@
+#navbar {
+  flex-direction: column;
+  align-items: left;
+  width: 100vw;
+}
+.services_box::before {
+  width: 70%;
+}
+.services_box {
+  width: 50%;
+  padding: 2px;
+}
+.heading-primary {
+  font-size: 1.5rem;
+}
+.box img {
+  width: 89px;
+}
+.heading_center {
+  font-size: 1rem;
+}
+.heading2_center {
+  font-size: 0.8rem;
+}
+.discriptions {
+  width: 60%;
+  font-size: 0.6rem;
+  margin: auto;
+}
+.box img {
+  width: 52px;
+}
